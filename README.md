@@ -11,7 +11,7 @@ student_data = [
 <li> or .csv file <i><b>./CSV-Generator</b></i></li>
 </ul>
 <ol>
-<li> Certificates are generated in docx format using <Generator-word> and saved in the <docx> directory </li>
-<li> These docx certificates are then converted to pdf using <Converter-pdf> </li>
+<li> Certificates are generated in docx format using <b>Generator-word</b> and saved in the <b>docx</b> directory </li>
+<li> These docx certificates are then converted to pdf using <b>Converter-pdf</b> </li>
 <li> The final result after running the script twice is achived at <b><i>./Certificates directory</b></i> </li>
 </ol>
